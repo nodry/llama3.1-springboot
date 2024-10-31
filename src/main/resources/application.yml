@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: spring-ai
+  ai:
+    ollama:
+      chat:
+        model: llama3
